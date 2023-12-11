@@ -16,5 +16,5 @@
 3. Signup on render.com.
 4. It most important if you to deploy your apllication live and free because Github can't be used for deploying this app online as it is dynamically build.
 5. Then see on youutube how to use render for uploading node.js files. Click on the first link and deploy your onlne Newsletter Website for free.
-6. Though it won't be possible online :))
+6. Though it won't be possible online :))...Unless you buy your own domain or purchase and keep those files hidden
 7. But you can deploy it on your local server using Hyper terminal and some basic commands.
